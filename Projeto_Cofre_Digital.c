@@ -36,60 +36,63 @@ void pausar() {
 
 // Função para exibir a arte do cofre
 void exibirCofre() {
-    printf("\n\t******************************\n");
-    printf("\t* *\n");
-    printf("\t* *********************** *\n");
-    printf("\t* * * *\n");
-    printf("\t* * * *\n");
-    printf("\t* * * *\n");
-    printf("\t* * * *\n");
-    printf("\t* * * *\n");
-    printf("\t* * * * *\n");
-    printf("\t* * * * * *\n");
-    printf("\t* * * * * * *\n");
-    printf("\t* * * * * *\n");
-    printf("\t* * * *\n");
-    printf("\t* *********************** *\n");
-    printf("\t* *\n");
-    printf("\t******************************\n");
+    printf("\n\n\n");
+    printf("\t******************************\n");
+    printf("\t*                            *\n");
+    printf("\t*  ***********************   *\n");
+    printf("\t*  *                     *   *\n");
+    printf("\t*  *                     *   *\n");
+    printf("\t*  *                     *   *\n");
+    printf("\t*  *                     *   *\n");
+    printf("\t*  *                     *   *\n");
+    printf("\t*  *    *                *   *\n");
+    printf("\t*  *    *            *   *   *\n");
+    printf("\t*  *    *           * *  *   *\n");
+    printf("\t*  *    *            *   *   *\n");
+    printf("\t*  *                     *   *\n");
+    printf("\t*  ***********************   *\n");
+    printf("\t*                            *\n");
+    printf("\t******************************");
+    printf("\n\n\n");
 }
 
 // Função para exibir a arte de senha correta
 void exibirCofreAberto() {
-    printf("\n\t******************************\n");
-    printf("\t* *\n");
-    printf("\t* *********************** *\n");
-    printf("\t* * * * *\n");
-    printf("\t* * * * *\n");
-    printf("\t* * * * *\n");
-    printf("\t* * * * *\n");
-    printf("\t* * *$              * *\n");
-    printf("\t* * *$$            *$  *\n");
-    printf("\t* * * * *$$$$          $$$* *\n");
-    printf("\t* * * * *$$$$$$$    $$$$$$* *\n");
-    printf("\t* * *$$$$$$$$$$$$$$$$$* *\n");
-    printf("\t* * *&$$$$$$$$$$$$$$$$* *\n");
-    printf("\t* *********************** *\n");
-    printf("\t* *\n");
-    printf("\t******************************\n");
+    printf("\t******************************\n");
+    printf("\t*                            *\n");
+    printf("\t*  ***********************   *\n");
+    printf("\t*  *   *                 *   *\n");
+    printf("\t*  *   *                 *   *\n");
+    printf("\t*  *   *                 *   *\n");
+    printf("\t*  *   *                 *   *\n");
+    printf("\t*  *   *$                *   *\n");
+    printf("\t*  *   *$$              $*   *\n");
+    printf("\t*  * * *$$$$          $$$*   *\n");
+    printf("\t*  * * *$$$$$$$    $$$$$$*   *\n");
+    printf("\t*  *   *$$$$$$$$$$$$$$$$$*   *\n");
+    printf("\t*  *   *&$$$$$$$$$$$$$$$$*   *\n");
+    printf("\t*  ***********************   *\n");
+    printf("\t*                            *\n");
+    printf("\t******************************");
+    printf("\n\t");
 }
 
 // Função para exibir a arte de senha incorreta
 void exibirSenhaIncorreta() {
     printf("\n\n\n");
-    printf("\t* *\n");
-    printf("\t * * \n");
-    printf("\t  * * \n");
-    printf("\t   * * \n");
-    printf("\t    * * \n");
-    printf("\t     ** \n");
-    printf("\t     ** \n");
-    printf("\t    * * \n");
-    printf("\t   * * \n");
-    printf("\t  * * \n");
-    printf("\t * * \n");
-    printf("\t* *\n");
-    printf("\n\n\n");
+    printf("\t*          *"); printf("\n");
+    printf("\t *        * "); printf("\n");
+    printf("\t  *      *  "); printf("\n");
+    printf("\t   *    *   "); printf("\n");
+    printf("\t    *  *    "); printf("\n");
+    printf("\t     **     "); printf("\n");
+    printf("\t     **     "); printf("\n");
+    printf("\t    *  *    "); printf("\n");
+    printf("\t   *    *   "); printf("\n");
+    printf("\t  *      *  "); printf("\n");
+    printf("\t *        * "); printf("\n");
+    printf("\t*          *"); printf("\n");
+    printf("\n\n\n");
 }
 
 int main() {
