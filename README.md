@@ -9,9 +9,6 @@
 - João Victor Vasconcelos Junqueira Criscuolo 
 - Lucas Espica Rezende 
 
-**Campinas – SP**  
-2024
-
 ## 1. Introdução
 O presente relatório tem como objetivo apresentar o desenvolvimento completo do Projeto Cofre Digital, idealizado e implementado como parte da disciplina Programação de Computadores (PC). O projeto consistiu na criação de um sistema de autenticação baseado em senha, desenvolvido em linguagem C, com foco em segurança, lógica de programação e manipulação de vetores.
 
